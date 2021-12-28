@@ -1,0 +1,16 @@
+td {
+    width: 170px;
+    height: 20px;
+    align-items: center;
+    text-align: center;
+    color: purple;
+    font-weight: 500;
+}
+
+td button {
+    width: 60%;
+    background-color: orangered;
+    border: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+}

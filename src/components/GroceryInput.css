@@ -1,0 +1,21 @@
+input {
+    width: 50%;
+    height: 30px;
+    border: crimson solid 2px;
+    outline: none;
+    margin-top: 15px;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    width: 25%;
+    height: 30px;
+    background-color: chartreuse;
+    border-radius: 15px;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+}
