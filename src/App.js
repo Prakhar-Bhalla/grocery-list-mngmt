@@ -12,6 +12,7 @@ function App() {
         borderRadius : "25px",
         padding : "0 0 0 12%",
         overflow : "scroll",
+        boxShadow : "10px 10px 100px grey"
       }}>
         <Grocery/>
       </div>
